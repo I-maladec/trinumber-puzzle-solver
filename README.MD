@@ -44,11 +44,11 @@ Length: 259
 
 ## Installation
 
-1. Install [Node.js](https://nodejs.org/) (LTS recommended).
+1. Install [Node.js](https://nodejs.org/)
 2. Clone this repository and open its directory:
 
 	```bash
-	git clone <repository-url>
+	git clone https://github.com/I-maladec/trinumber-puzzle-solver.git
 	cd trinumber-puzzle-solver
 	```
 
